@@ -28,8 +28,8 @@ allprojects {
   Step 3. Add ColorfulTextView in layout
   
 ```
-     <com.masa.colorfultextview.ColorfulTextView
+      <com.masa.colorfultextview.ColorfulTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello @{My,#FF5722,90,I} @{World,#000fff,60,B}" />
+        android:text="test @{Hello,#000000,200,N} @{My,#FF5722,100,I} @{World,#000fff,55,B}" />
  ```
