@@ -1,7 +1,7 @@
 # ColorfulTextView
 A simple library to create colorful TextViews
 
-
+![Image of Yaktocat](https://github.com/masoud1993/ColorfulTextView/raw/master/shot.PNG)
 
 ## Usage
 Step 1. Add the JitPack repository to your build file
