@@ -1,6 +1,5 @@
 package com.masa.colorfultextview
 
-
 import android.content.Context
 import android.graphics.Color
 import android.graphics.Typeface
